@@ -43,7 +43,7 @@ export default function Login({ setIsAuthenticated }) {
         <div className="text-center mb-8">
           <button onClick={handleBackHome} className="inline-flex items-center space-x-2 mb-4 hover:opacity-80 transition">
             <GraduationCap className="w-10 h-10 text-blue-600" />
-            <span className="text-2xl font-bold text-gray-900">Campus LMS</span>
+            <span className="text-2xl font-bold text-gray-900">LMS</span>
           </button>
           <h2 className="text-2xl font-bold text-gray-900 mt-4">
             {isLogin ? 'Welcome Back' : 'Create Account'}
