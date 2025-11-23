@@ -9,6 +9,8 @@ INSTALLATION INSTRUCTIONS
 
 2. RUN THE PROJECT:
    npm run dev
+   install: npm install @react-oauth/google
+    Install: npm install @azure/msal-browser
 
 3. NAVIGATION:
    - Landing Page: http://localhost:5173/
